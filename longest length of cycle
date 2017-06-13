@@ -17,3 +17,10 @@ for i in range(0,n):
             j=a[j]
             a[temp]=-1 
 print path
+/*
+Input
+23
+4 4 1 4 13 8 8 8 0 8 14 9 15 11 -1 10 15 22 22 22 22 22 21
+Output
+6
+*/
